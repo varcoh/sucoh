@@ -7,7 +7,7 @@
 #simple .module_prompt {display:none;}
 #templateTit {text-align:left;}
 
-#simple #storeDescriptionTab .navi_pills>li {width:150px;text-align:center;border:none;}
+#simple #storeDescriptionTab .navi_pills>li {width:150px;text-align:center;border:none;border-right:1px solid #fff!important;}
 .navi_pills>li+li {border-left:none;border-right:1px solid #fff!important;}
 
 #simple .body_content {
