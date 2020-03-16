@@ -29,6 +29,10 @@
 #templateTit {
     text-align: left;
 }
+
 #simple .module_tit {
     background: #2196F3;
+}
+#simple #storeDescriptionTab .navi_pills {
+    background-color: #2196F3;
 }
