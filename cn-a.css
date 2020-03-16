@@ -1,58 +1,15 @@
-.desc-temp-out#simple .desc-temp-copy {
-    display: none;
-}
-
-.desc-temp-category {
-    display: none;
-}
-
-#storeCategories {
-    display: none;
-}
-
-.col_l module_l {
-    display: none;
-}
-
-#simple .footer_content>.grid>.footer_l {
-    display: none;
-}
-
-.module_r {
-    width: 100%!important;
-}
-
-#simple .module_prompt {
-    display: none;
-}
-
-#templateTit {
-    text-align: left;
-}
-
-
-/* navigation Start */
-#simple .module_tit {
-    background: #2196F3;
-}
-#simple #storeDescriptionTab .navi_pills {
-    background-color: #2196F3;
-}
-#simple .footer_content {
-    background-color: #2196F3;
-}
-/* navigation End */
-
-
-
-#simple #storeDescriptionTab .navi_pills>li {
-    width: 150px;
-    text-align: center;
-    border:none;
-}
-
-.navi_pills>li+li {
-    border-left: none;
-    border-right: 1px solid #fff!important;
-}
-
+.desc-temp-out#simple .desc-temp-copy {display:none;}
+.desc-temp-category {display:none;}
+#storeCategories {display:none;}
+.col_l module_l {display:none;}
+#simple .footer_content>.grid>.footer_l {display:none;}
+.module_r {width:100%!important;}
+#simple .module_prompt {display:none;}
+#templateTit {text-align:left;}
+/* navigation Start*/
+#simple .module_tit {background:#2196F3;}
+#simple #storeDescriptionTab .navi_pills {background-color:#2196F3;}
+#simple .footer_content {background-color:#2196F3;}
+/* navigation End*/
+#simple #storeDescriptionTab .navi_pills>li {width:150px;text-align:center;border:none;}
+.navi_pills>li+li {border-left:none;border-right:1px solid #fff!important;}
