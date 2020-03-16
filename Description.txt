@@ -32,3 +32,9 @@ background-attachment:fixed
 }
 
 
+
+#simple-o .body_content {
+    background-color: #f5f5f5 !important;
+    background: url(https://wxalbum-10001658.image.myqcloud.com/wxalbum/0/20180514153047/f606ebf….png) no-repeat top center,url(https://wxalbum-10001658.image.myqcloud.com/wxalbum/0/20180514153050/28af1e9….png) no-repeat bottom center,url() center center;
+}
+
