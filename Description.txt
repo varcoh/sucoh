@@ -44,3 +44,7 @@ background-attachment:fixed
     background: url() no-repeat top center,url() no-repeat bottom center,url(https://wxalbum-10001658.image.myqcloud.com/wxalbum/0/20180330165540/1dcb8ab….jpg) center center;
 }
 
+#fashion-j .body_content {
+    background-color: !important;
+    background: url(https://wxalbum-10001658.image.myqcloud.com/wxalbum/0/20180507200131/42959cf….jpg) no-repeat top center,url() no-repeat bottom center,url(https://wxalbum-10001658.image.myqcloud.com/wxalbum/0/20180507195953/019d1da….jpg) center center;
+}
