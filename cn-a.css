@@ -24,3 +24,6 @@
     padding: 100px 10px 200px 10px;
     box-sizing: border-box;
 }
+.page_out {
+    padding: 0;
+}
