@@ -17,3 +17,10 @@
 	background-position-x:center;
 	background-repeat:no-repeat;
 }
+
+
+#simple .grid {
+    width: 1100px;
+    padding: 100px 10px 100px 10px;
+    box-sizing: border-box;
+}
