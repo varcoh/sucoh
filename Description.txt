@@ -1,2 +1,33 @@
 https://varcoh.github.io/sucoh/cn-a.css
 http://tool.chinaz.com/Tools/CssFormat.aspx
+
+
+#simple .body_content {
+    background-color: #2376ae;
+    background-image: url(https://timage.pushauction.com/v3/DefaultTemplate/A16022/store_bottombg.jpg);
+    background-position-y: bottom;
+    background-position-x: center;
+    background-repeat: no-repeat;
+}
+
+
+
+#simple .body_content {
+    background-color: #cde4f2;
+    background-image: url(https://timage.pushauction.com/v3/DefaultTemplate/A15314/store_topbg.jpg);
+    background-position-y: top;
+    background-position-x: center;
+    background-repeat: no-repeat;
+}
+
+
+
+#simple .body_content {
+    background-color: #cde4f2;
+    background-image: url(https://timage.pushauction.com/v3/DefaultTemplate/A16188/bg.jpg);
+    background-position-y: top;
+    background-position-x: center;
+    background-repeat: repeat-y;
+}
+
+
