@@ -30,9 +30,15 @@
     text-align: left;
 }
 
+
+/* navigation Start */
 #simple .module_tit {
     background: #2196F3;
 }
 #simple #storeDescriptionTab .navi_pills {
     background-color: #2196F3;
 }
+#simple .footer_content {
+    background-color: #2196F3;
+}
+/* navigation End */
