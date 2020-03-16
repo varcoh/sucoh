@@ -1,6 +1,7 @@
 https://varcoh.github.io/sucoh/cn-a.css
 http://tool.chinaz.com/Tools/CssFormat.aspx
 
+background-attachment:fixed
 
 #simple .body_content {
     background-color: #2376ae;
