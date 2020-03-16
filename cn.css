@@ -3,7 +3,6 @@
 }
 
 .desc-temp-category {
-
     display: none;
 }
 
@@ -16,14 +15,12 @@
 }
 
 #simple .footer_content>.grid>.footer_l {
-
     display: none;
 }
 
 .module_r {
     width: 100%!important;
 }
-
 
 #simple .module_prompt {
     display: none;
