@@ -1,0 +1,104 @@
+.desc-temp-out#simple .desc-temp-copy {
+    display: none;
+}
+
+.desc-temp-category {
+    display: none;
+}
+
+#storeCategories {
+    display: none;
+}
+
+.col_l module_l {
+    display: none;
+}
+
+#simple .footer_content>.grid>.footer_l {
+    display: none;
+}
+
+
+.module_r {
+    width: 100%!important;
+}
+
+#simple .module_prompt {
+    display: none;
+}
+
+#templateTit {
+    text-align: left;
+}
+
+#simple #storeDescriptionTab .navi_pills>li {
+    width: 150px;
+    text-align: center;
+    border: none;
+    border-right: 1px solid #fff!important;
+}
+
+.navi_pills>li+li {
+    border-left: none;
+    border-right: 1px solid #fff!important;
+}
+
+
+
+.page_out {
+    padding: 0;
+}
+
+
+.footer_content {
+    background-color: #eee;
+    height: 0px;
+    min-height: 0px;
+    max-height: 50px;
+}
+
+#simple .grid {
+    width: 1100px;
+    padding: 0px 10px 0px 10px;
+    box-sizing: border-box;
+}
+
+/* 20200317*/
+#simple .footer_content {
+    background-color: #EEEEEE;
+}
+
+#simple .body_content {
+    background-color: #EEEEEE!important;
+    background: url(https://varcoh.github.io/sucoh/image/us-4-background-top.jpg) center;
+}
+
+
+#simple .module_tit {
+    background: #fe761e;
+    font-weight: 600;
+    padding: 0;
+    overflow: hidden;
+}
+
+#simple-m .module_tit {
+    background: #fe761e;
+    font-weight: 600;
+    padding: 0;
+    overflow: hidden;
+}
+
+#simple #storeDescriptionTab .navi_pills {
+    background-color: #fe761e;
+}
+
+#simple #storeDescriptionTab .navi_pills+.tab_content>.tab_pane_wrapper>.navi_accordion_title>label,
+#simple #storeDescriptionTab .widget_tab_radio:nth-of-type(1):checked~.navi_pills>li:nth-of-type(1)>label,
+#simple #storeDescriptionTab .widget_tab_radio:nth-of-type(2):checked~.navi_pills>li:nth-of-type(2)>label,
+#simple #storeDescriptionTab .widget_tab_radio:nth-of-type(3):checked~.navi_pills>li:nth-of-type(3)>label,
+#simple #storeDescriptionTab .widget_tab_radio:nth-of-type(4):checked~.navi_pills>li:nth-of-type(4)>label,
+#simple #storeDescriptionTab .widget_tab_radio:nth-of-type(5):checked~.navi_pills>li:nth-of-type(5)>label,
+#simple #storeDescriptionTab .widget_tab_radio:nth-of-type(6):checked~.navi_pills>li:nth-of-type(6)>label {
+    color: #FFF;
+    background-color: #e84512;
+}
