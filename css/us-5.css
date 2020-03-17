@@ -93,6 +93,7 @@
 
 #simple-m .module_tit {
     background: #fffc01;
+    background-image: url(https://varcoh.github.io/sucoh/image/module_title.jpg);
     font-weight: 600;
     padding: 0;
     overflow: hidden;
