@@ -85,7 +85,14 @@
 #simple #storeDescriptionTab .navi_pills {
     background-color: #7dabbb;
 }
-#simple #storeDescriptionTab .navi_pills+.tab_content>.tab_pane_wrapper>.navi_accordion_title>label, #simple #storeDescriptionTab .widget_tab_radio:nth-of-type(1):checked~.navi_pills>li:nth-of-type(1)>label, #simple #storeDescriptionTab .widget_tab_radio:nth-of-type(2):checked~.navi_pills>li:nth-of-type(2)>label, #simple #storeDescriptionTab .widget_tab_radio:nth-of-type(3):checked~.navi_pills>li:nth-of-type(3)>label, #simple #storeDescriptionTab .widget_tab_radio:nth-of-type(4):checked~.navi_pills>li:nth-of-type(4)>label, #simple #storeDescriptionTab .widget_tab_radio:nth-of-type(5):checked~.navi_pills>li:nth-of-type(5)>label, #simple #storeDescriptionTab .widget_tab_radio:nth-of-type(6):checked~.navi_pills>li:nth-of-type(6)>label {
+
+#simple #storeDescriptionTab .navi_pills+.tab_content>.tab_pane_wrapper>.navi_accordion_title>label,
+#simple #storeDescriptionTab .widget_tab_radio:nth-of-type(1):checked~.navi_pills>li:nth-of-type(1)>label,
+#simple #storeDescriptionTab .widget_tab_radio:nth-of-type(2):checked~.navi_pills>li:nth-of-type(2)>label,
+#simple #storeDescriptionTab .widget_tab_radio:nth-of-type(3):checked~.navi_pills>li:nth-of-type(3)>label,
+#simple #storeDescriptionTab .widget_tab_radio:nth-of-type(4):checked~.navi_pills>li:nth-of-type(4)>label,
+#simple #storeDescriptionTab .widget_tab_radio:nth-of-type(5):checked~.navi_pills>li:nth-of-type(5)>label,
+#simple #storeDescriptionTab .widget_tab_radio:nth-of-type(6):checked~.navi_pills>li:nth-of-type(6)>label {
     color: #FFF;
     background-color: #326273;
 }
