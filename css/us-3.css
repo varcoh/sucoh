@@ -66,23 +66,23 @@
 
 /* 20200317*/
 #simple .footer_content {
-    background-color: #ccdfe6;
+    background-color: #000000;
 }
 
 #simple .body_content {
-    background-color: #ccdfe6!important;
-    background: url(https://varcoh.github.io/sucoh/image/us-2-background-top.jpg) top center no-repeat, url(https://varcoh.github.io/sucoh/image/us-2-background-bottom.png) bottom center no-repeat;
+    background-color: #000000!important;
+    background: url(https://varcoh.github.io/sucoh/image/us-3-background-top.jpg) top center no-repeat, url(https://varcoh.github.io/sucoh/image/us-3-background-bottom.png) bottom center no-repeat;
 }
 
 #simple .module_tit {
     font-weight: 600;
     padding: 0;
     overflow: hidden;
-    background: #7dabbb;
+    background: #333333;
 }
 
 #simple #storeDescriptionTab .navi_pills {
-    background-color: #7dabbb;
+    background-color: #333333;
 }
 
 #simple #storeDescriptionTab .navi_pills+.tab_content>.tab_pane_wrapper>.navi_accordion_title>label,
