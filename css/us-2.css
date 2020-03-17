@@ -66,9 +66,11 @@
 }
 
 #simple-o .body_content {
-    background-color: #ccdfe6 !important;
-    background: url(https://varcoh.github.io/sucoh/image/us-2-background-top.jpg) no-repeat top center,url(https://varcoh.github.io/sucoh/image/us-2-background-bottom.jpg) no-repeat bottom center,url() center center;
+    background-color: #ccdfe6;
+    background: url(https://varcoh.github.io/sucoh/image/us-2-background-top.jpg)top center no-repeat,url(https://varcoh.github.io/sucoh/image/us-2-background-bottom.jpg)center bottom no-repeat;
 }
+
+
 
 #simple .module_tit {
     font-weight: 600;
