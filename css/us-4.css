@@ -75,7 +75,12 @@
 }
 
 
-
+#simple .module_tit {
+    background: #fe761e;
+    font-weight: 600;
+    padding: 0;
+    overflow: hidden;
+}
 
 #simple-m .module_tit {
     background: #fe761e;
