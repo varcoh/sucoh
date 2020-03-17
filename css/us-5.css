@@ -117,6 +117,6 @@
     background-color: #eee;
     height: 211px;
     min-height: 211px;
-    background: url(https://varcoh.github.io/sucoh/image/us-5-background-bottom.png) center bottom;
+    background: url(https://varcoh.github.io/sucoh/image/us-5-background-bottom.png) center bottom,url(https://varcoh.github.io/sucoh/image/us-5-background-center.jpg) center center;
     max-height: 50px;
 }
