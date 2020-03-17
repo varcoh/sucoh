@@ -69,9 +69,10 @@
 }
 
 #simple .body_content {
-    background-color: #EEEEEE!important;
-    background: url(https://varcoh.github.io/sucoh/image/us-4-background-top.jpg) center;
+    background-color: #000000!important;
+    background: url(https://varcoh.github.io/sucoh/image/us-5-background-top.jpg) top center no-repeat;
 }
+
 
 
 #simple .module_tit {
