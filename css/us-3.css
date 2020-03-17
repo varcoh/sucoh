@@ -74,15 +74,21 @@
     background: url(https://varcoh.github.io/sucoh/image/us-3-background-top.jpg) top center no-repeat, url(https://varcoh.github.io/sucoh/image/us-3-background-bottom.png) bottom center no-repeat;
 }
 
+#simple .module_tit span {
+    padding-left: 10px;
+    height: 40px;
+    line-height: 40px;
+    color: #000;
+}
 #simple .module_tit {
     font-weight: 600;
     padding: 0;
     overflow: hidden;
-    background: #333333;
+    background: #E5D48E;
 }
 
 #simple #storeDescriptionTab .navi_pills {
-    background-color: #333333;
+    background-color: #E5D48E;
 }
 
 #simple #storeDescriptionTab .navi_pills+.tab_content>.tab_pane_wrapper>.navi_accordion_title>label,
@@ -93,5 +99,8 @@
 #simple #storeDescriptionTab .widget_tab_radio:nth-of-type(5):checked~.navi_pills>li:nth-of-type(5)>label,
 #simple #storeDescriptionTab .widget_tab_radio:nth-of-type(6):checked~.navi_pills>li:nth-of-type(6)>label {
     color: #FFF;
-    background-color: #326273;
+    background-color: #A38346;
+}
+#simple #storeDescriptionTab .navi_pills>li>label {
+    color: #000;
 }
