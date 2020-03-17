@@ -65,14 +65,10 @@
     background-color: #ccdfe6;
 }
 
-#simple .body_content {
-    background-color: #ccdfe6;
-    background-image: url(https://varcoh.github.io/sucoh/image/us-2-background-top.jpg);
-    background-position-y: top;
-    background-position-x: center;
-    background-repeat: no-repeat;
+#simple-o .body_content {
+    background-color: #ccdfe6 !important;
+    background: url(https://varcoh.github.io/sucoh/image/us-2-background-top.jpg) no-repeat top center,url(https://varcoh.github.io/sucoh/image/us-2-background-bottom.jpg) no-repeat bottom center,url() center center;
 }
-
 
 #simple .module_tit {
     font-weight: 600;
