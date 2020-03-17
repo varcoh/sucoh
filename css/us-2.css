@@ -18,20 +18,6 @@
     display: none;
 }
 
-.footer_content {
-    background-color: #eee;
-    height: 50px;
-    min-height: 199px;
-    max-height: 50px;
-}
-
-#simple .footer_content {
-    background-color: #cde4f2;
-    background-position-y: bottom;
-    background-position-x: center;
-    background-repeat: no-repeat;
-    background-image: url(https://varcoh.github.io/sucoh/image/us-2-footer.png);
-}
 
 .module_r {
     width: 100%!important;
@@ -57,13 +43,6 @@
     border-right: 1px solid #fff!important;
 }
 
-#simple .body_content {
-    background-color: #cde4f2;
-    background-image: url(https://varcoh.github.io/sucoh/image/us-2-background-top.jpg);
-    background-position-y: top;
-    background-position-x: center;
-    background-repeat: no-repeat;
-}
 
 #simple .grid {
     width: 1100px;
@@ -74,6 +53,26 @@
 .page_out {
     padding: 0;
 }
+.footer_content {
+    background-color: #eee;
+    height: 50px;
+    min-height: 199px;
+    max-height: 50px;
+}
+
+/* 20200317*/
+#simple .footer_content {
+    background-color: #ccdfe6;
+}
+
+#simple .body_content {
+    background-color: #ccdfe6;
+    background-image: url(https://varcoh.github.io/sucoh/image/us-2-background-top.jpg);
+    background-position-y: top;
+    background-position-x: center;
+    background-repeat: no-repeat;
+}
+
 
 #simple .module_tit {
     font-weight: 600;
