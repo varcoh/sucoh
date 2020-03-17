@@ -71,8 +71,10 @@
 
 #simple .body_content {
     background-color: #EEEEEE!important;
-    background: url(https://varcoh.github.io/sucoh/image/us-4-background-top.jpg) top center no-repeat, url(https://varcoh.github.io/sucoh/image/us-4-background-bottom.png) bottom center no-repeat;
+    background: url(https://varcoh.github.io/sucoh/image/us-4-background-top.jpg) center;
 }
+
+
 
 
 #simple-m .module_tit {
@@ -83,7 +85,7 @@
 }
 
 #simple #storeDescriptionTab .navi_pills {
-    background-color: #E5D48E;
+    background-color: #fe761e;
 }
 
 #simple #storeDescriptionTab .navi_pills+.tab_content>.tab_pane_wrapper>.navi_accordion_title>label,
@@ -94,5 +96,5 @@
 #simple #storeDescriptionTab .widget_tab_radio:nth-of-type(5):checked~.navi_pills>li:nth-of-type(5)>label,
 #simple #storeDescriptionTab .widget_tab_radio:nth-of-type(6):checked~.navi_pills>li:nth-of-type(6)>label {
     color: #FFF;
-    background-color: #fc9753;
+    background-color: #e84512;
 }
