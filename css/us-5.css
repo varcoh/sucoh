@@ -93,7 +93,6 @@
 
 #simple-m .module_tit {
     background: #fffc01;
-    background-image: url(https://varcoh.github.io/sucoh/image/module_title.jpg);
     font-weight: 600;
     padding: 0;
     overflow: hidden;
@@ -101,6 +100,7 @@
 
 #simple #storeDescriptionTab .navi_pills {
     background-color: #fffc01;
+    background-image: url(https://varcoh.github.io/sucoh/image/module_title.jpg);
 }
 
 #simple #storeDescriptionTab .navi_pills+.tab_content>.tab_pane_wrapper>.navi_accordion_title>label,
