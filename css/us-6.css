@@ -78,21 +78,21 @@
     color: #000;
 }
 #simple .module_tit {
-    background: #fe761e;
+    background: #3F51B5;
     font-weight: 600;
     padding: 0;
     overflow: hidden;
 }
 
 #simple-m .module_tit {
-    background: #fe761e;
+    background: #3F51B5;
     font-weight: 600;
     padding: 0;
     overflow: hidden;
 }
 
 #simple #storeDescriptionTab .navi_pills {
-    background-color: #fe761e;
+    background-color: #03A9F4;
 }
 
 #simple #storeDescriptionTab .navi_pills+.tab_content>.tab_pane_wrapper>.navi_accordion_title>label,
@@ -103,5 +103,5 @@
 #simple #storeDescriptionTab .widget_tab_radio:nth-of-type(5):checked~.navi_pills>li:nth-of-type(5)>label,
 #simple #storeDescriptionTab .widget_tab_radio:nth-of-type(6):checked~.navi_pills>li:nth-of-type(6)>label {
     color: #FFF;
-    background-color: #e84512;
+    background-color: #3F51B5;
 }
