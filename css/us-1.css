@@ -79,7 +79,9 @@
     font-weight: 600;
     padding: 0;
     overflow: hidden;
+    background-image: url(https://varcoh.github.io/sucoh/image/us-1-title.jpg);
 }
 #simple #storeDescriptionTab .navi_pills {
     background-color: #2196F3;
+    background-image: url(https://varcoh.github.io/sucoh/image/us-1-title.jpg);
 }
