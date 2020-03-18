@@ -123,3 +123,20 @@
     background: url(https://varcoh.github.io/sucoh/image/us-5-background-bottom.png) center bottom,url(https://varcoh.github.io/sucoh/image/us-5-background-center.jpg) center center;
     max-height: 50px;
 }
+
+.vfaq p {
+    font-size: 16px;
+    line-height: 25px;
+    margin-bottom: 20px;
+}
+
+.faq-a {
+    text-align: center;
+    font-size: 20px!important;
+    font-weight: bold;
+}
+
+.faq-b {
+    font-weight: bold;
+    margin-top: 35px;
+}
