@@ -74,6 +74,7 @@
 .page_out {
     padding: 0;
 }
+
 #simple .module_tit {
     background: #2196F3;
     font-weight: 600;
@@ -81,7 +82,28 @@
     overflow: hidden;
     background-image: url(https://varcoh.github.io/sucoh/image/us-1-title.jpg);
 }
+
 #simple #storeDescriptionTab .navi_pills {
     background-color: #2196F3;
     background-image: url(https://varcoh.github.io/sucoh/image/us-1-title.jpg);
+}
+
+
+.vfaq p {
+    font-size: 16px;
+    line-height: 25px;
+    margin-bottom: 20px;
+}
+
+.faq-a {
+    font-size: 16px;
+    text-align: center;;
+    line-height: 25px;
+    margin-bottom: 20px;
+}
+
+.faq-b {
+    font-size: 16px;
+    line-height: 25px;
+    margin-bottom: 20px;
 }
