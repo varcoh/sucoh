@@ -17,6 +17,15 @@
 #simple .footer_content>.grid>.footer_l {
     display: none;
 }
+.module_r .module_offset_fix {
+    background: #fff;
+}
+.module_offset_fix {
+    margin-bottom: 10px;
+    background: transparent;
+}
+
+
 
 .footer_content {
     background-color: #eee;
