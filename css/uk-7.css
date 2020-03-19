@@ -1,0 +1,114 @@
+.desc-temp-out#simple .desc-temp-copy {
+    display: none;
+}
+
+.desc-temp-category {
+    display: none;
+}
+
+#storeCategories {
+    display: none;
+}
+
+.col_l module_l {
+    display: none;
+}
+
+#simple .footer_content>.grid>.footer_l {
+    display: none;
+}
+.module_r .module_offset_fix {
+    background: #fff;
+}
+.module_offset_fix {
+    margin-bottom: 10px;
+    background: transparent;
+}
+
+
+
+.footer_content {
+    background-color: #eee;
+    height: 516px;
+    min-height: 516px;
+    max-height: 50px;
+}
+
+#simple .footer_content {
+    background-color: #000;
+    background-position-y: bottom;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-image: url(https://varcoh.github.io/sucoh/image/us-7-background-footer.jpg);
+}
+
+
+.module_r {
+    width: 100%!important;
+}
+
+#simple .module_prompt {
+    display: none;
+}
+
+#templateTit {
+    text-align: left;
+}
+
+#simple #storeDescriptionTab .navi_pills>li {
+    width: 150px;
+    text-align: center;
+    border: none;
+    border-right: 1px solid #fff!important;
+}
+
+.navi_pills>li+li {
+    border-left: none;
+    border-right: 1px solid #fff!important;
+}
+
+#simple .body_content {
+    background-color: #000!important;
+    background: url(https://varcoh.github.io/sucoh/image/us-7-background-top.jpg) top center no-repeat,url(https://varcoh.github.io/sucoh/image/us-7-background-center.jpg) center center;
+}
+
+#simple .grid {
+    width: 1100px;
+    padding: 100px 10px 0px 10px;
+    box-sizing: border-box;
+}
+
+.page_out {
+    padding: 0;
+}
+
+#simple .module_tit {
+    background: #00a559;
+    font-weight: 600;
+    padding: 0;
+    overflow: hidden;
+}
+
+#simple #storeDescriptionTab .navi_pills {
+    background-color: #00a559;
+}
+
+
+
+
+.vfaq p {
+    font-size: 16px;
+    line-height: 25px;
+    margin-bottom: 20px;
+}
+
+.faq-a {
+    text-align: center;
+    font-size: 20px!important;
+    font-weight: bold;
+}
+
+.faq-b {
+    font-weight: bold;
+    margin-top: 35px;
+}
