@@ -18,7 +18,13 @@
     display: none;
 }
 
-
+.module_r .module_offset_fix {
+    background: #fff;
+}
+.module_offset_fix {
+    margin-bottom: 10px;
+    background: transparent;
+}
 .module_r {
     width: 100%!important;
 }
