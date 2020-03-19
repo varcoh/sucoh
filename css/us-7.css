@@ -20,13 +20,18 @@
 
 .footer_content {
     background-color: #eee;
-    height: 50px;
-    min-height: 199px;
+    height: 516px;
+    min-height: 516px;
     max-height: 50px;
 }
 
-
-
+#simple .footer_content {
+    background-color: #000;
+    background-position-y: bottom;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-image: url(https://varcoh.github.io/sucoh/image/us-7-background-footer.jpg);
+}
 
 
 .module_r {
